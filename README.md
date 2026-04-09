@@ -6,7 +6,7 @@ Built with HTML, CSS, and JavaScript for a smooth, interactive user experience.
 
 ## Live Demo
 
-Check out the live demo: [https://iam269.github.io/Custom-Select-Menu-Design/](https://iam269.github.io/Custom-Select-Menu-Design/)
+Check out the live demo: [https://itsiamdev.github.io/Custom-Select-Menu-Design/](https://itsiamdev.github.io/Custom-Select-Menu-Design/)
 
 ## Features
 
